@@ -1,0 +1,5 @@
+name = input("Kindly enter your name : ")
+print("Hello "+ name)
+print("Your name in uppercase is " + name.upper())
+print("Your name in lowercase is " + name.lower())
+print("The first character of your name is " + name[0])
